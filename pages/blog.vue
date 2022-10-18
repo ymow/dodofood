@@ -50,8 +50,7 @@ pages = await getItems({
     <PageBody>
       <PageSection>
         <div class="relative max-w-4xl px-6 pt-12 pb-24 mx-auto space-y-8">
-          <header class="
-            class=" relative overflow-hidden rounded-tr rounded-bl bg-gradient-to-br from-slate-900 to-slate-700
+          <header class="relative overflow-hidden rounded-tr rounded-bl bg-gradient-to-br from-slate-900 to-slate-700
             shadow-primary-600 rounded-tl-3xl rounded-br-3xl">
             <div class="md:flex md:justify-between">
               <h1 class="px-8 py-6 text-4xl font-extrabold text-white">
@@ -67,8 +66,7 @@ pages = await getItems({
                 </NuxtLink>
               </div>
             </div>
-            <div class="
-              class=" w-full h-4 bg-gradient-to-r from-primary-700 via-primary-600 to-pink-600" />
+            <div class="w-full h-4 bg-gradient-to-r from-primary-700 via-primary-600 to-pink-600" />
           </header>
           <div class="">
             <TabGroup>
@@ -99,8 +97,7 @@ pages = await getItems({
                       <h3 class="text-sm font-medium leading-5">
                         {{ post.title }}
                       </h3>
-                      <ul class="
-                        class=" mt-1 flex space-x-1 text-xs font-normal leading-4 text-gray-500">
+                      <ul class="mt-1 flex space-x-1 text-xs font-normal leading-4 text-gray-500">
                         <li>{{ post.author.last_name }}</li>
                       </ul>
 
