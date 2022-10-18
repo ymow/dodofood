@@ -46,7 +46,6 @@
     "pinia": "^2.0.18",
     "postcss": "8.4.14",
     "postcss-loader": "^7.0.0",
-    "prettier": "^2.7.1",
     "sass": "1.53.0",
     "sass-loader": "^13.0.2",
     "serve": "^13.0.2",
@@ -64,5 +63,9 @@
     "**/*.{js,ts,vue,html}": [
       "pnpm lintfix"
     ]
+  },
+  "dependencies": {
+    "@directus/sdk": "^10.1.4",
+    "nuxt-directus": "^3.1.0"
   }
 }

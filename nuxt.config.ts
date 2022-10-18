@@ -57,7 +57,11 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     '@nuxtjs/eslint-module',
     'nuxt-windicss',
+    'nuxt-directus',
   ],
+  directus: {
+    url: 'http://localhost:8055',
+  },
 
   // experimental features
   experimental: {

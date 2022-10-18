@@ -14,6 +14,11 @@ pages:
     title: 空白ページ
     description: これは空白のページです
     just_blank_page_with_title: タイトルのある空白のページ
+  blog:
+    nav: ブログ
+    title: ブログ
+    description: これはブログページです
+    just_blog_page_with_title: タイトルだけのブログページ
   post:
     nav: 役職
     title: 役職

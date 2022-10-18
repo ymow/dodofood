@@ -14,6 +14,11 @@ pages:
     title: halaman kosong
     description: ini adalah halaman kosong
     just_blank_page_with_title: hanya halaman kosong dengan judul
+  blog:
+    nav: blog
+    title: blog
+    description: this is a blog page
+    just_blog_page_with_title: just blog page with title
   post:
     nav: pos
     title: pos

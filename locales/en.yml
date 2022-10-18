@@ -14,6 +14,11 @@ pages:
     title: blank page
     description: this is a blank page
     just_blank_page_with_title: just blank page with title
+  blog:
+    nav: blog
+    title: blog
+    description: this is a blog page
+    just_blog_page_with_title: just blog page with title
   post:
     nav: post
     title: post
